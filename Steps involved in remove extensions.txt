@@ -1,0 +1,39 @@
+Steps involved in remove extensions : 
+---
+
+# Browser Extension Audit & Removal Log
+
+Date: [14/08/2025]
+Audited by: [Puneeth]
+Browser: Chrome 
+System: [Puneeth kumar]
+Purpose of Audit: [ Performance Issue ]
+
+---
+
+## Steps Taken
+
+| Step No. | Action                               | Description                                                                         | Notes                                          |
+| -------- | ------------------------------------ | ----------------------------------------------------------------------------------- | ---------------------------------------------- |
+| 1        | Initial Review                       | Reviewed all currently installed extensions in the browser(s).                      | Checked for unknown or rarely used extensions. |
+| 2        | Risk Assessment                      | Evaluated each extension's source, permissions, reviews, and update history.        | Marked suspicious or unnecessary extensions.   |
+| 3        | User Consultation *(if applicable)*  | Informed user about potentially risky extensions and obtained approval for removal. | —                                              |
+| 4        | Extension Removal                    | Uninstalled identified malicious or untrusted extensions.                           | See list below.                                |
+| 5        | Permissions Review                   | Checked remaining extensions for excessive permissions.                             | —                                              |
+| 6        | Browser Settings Reset *(if needed)* | Reset homepage, search engine, and new tab settings to defaults.                    | —                                              |
+| 7        | System Scan *(optional)*             | Run antivirus/malware scanner to check for system-level threats.                    | Tool used: \[Name]                             |
+| 8        | Final Check                          | Verified browser performance and confirmed no suspicious behavior.                  | —                                              |
+
+---
+
+## 🗑️ **Extensions Removed**
+
+| Extension Name       | ID (if available)   | Reason for Removal                                          | Notes                            |
+| -------------------- | ------------------- | ----------------------------------------------------------- | -------------------------------- |
+| \[Dark Theme ]       | [---------------]   |  Excessive permissions                                      | Installed without user knowledge |
+| \[Unlock YouTube VPN]| [----------------]  |  unwanted                                                   | Installed without user knowledge |
+
+---
+
+by : Puneeth kumar
+thankyou

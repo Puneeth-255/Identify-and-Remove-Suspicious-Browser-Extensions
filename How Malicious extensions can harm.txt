@@ -1,0 +1,64 @@
+How Malicious extensions can harm users: 
+
+Malicious browser extensions can be highly dangerous and can harm users in a variety of ways, often without being immediately obvious. Here's how they can do damage:
+
+---
+
+### 1. Data Theft
+
+* **Stealing login credentials:** They can capture usernames and passwords entered on websites.
+* **Accessing sensitive information:** Extensions can read everything you type or view on a webpage, including emails, messages, and payment information.
+* **Harvesting personal data:** Extensions may collect your name, email, address, browsing history, or even files you upload.
+
+---
+
+### 2. Browser Hijacking
+
+* **Changing search engine or homepage:** Some extensions alter browser settings to redirect users to ad-laden or phishing sites.
+* **Injecting ads or pop-ups:** They can display unwanted ads or affiliate links to generate revenue fraudulently.
+* **Redirecting to malicious websites:** Users may be sent to phishing sites designed to trick them into giving up sensitive information.
+
+---
+
+### 3. Surveillance and Spying
+
+* **Keystroke logging:** Some malicious extensions can record every key you press.
+* **Monitoring browsing behavior:** Tracking what websites you visit, how long you stay, and what you click on can build a detailed profile of you.
+* **Taking screenshots or screen recordings:** With the right permissions, extensions can capture what’s on your screen.
+
+---
+
+### 4. System Exploitation
+
+* **Executing arbitrary code:** If the extension updates dynamically (from a remote server), attackers can push malicious code anytime.
+* **Serving as a backdoor:** Some extensions act as a foothold for attackers to further compromise your system or network.
+
+---
+
+### 5. Financial Harm
+
+* **Cryptojacking:** Using your device’s resources to mine cryptocurrency without your knowledge.
+* **Scams and frauds:** Redirecting users to fake websites that mimic real ones to steal payment or identity info.
+
+---
+
+### 6. Exploiting Permissions
+
+Even legitimate-looking extensions can abuse permissions like:
+
+* `tabs`: Access all your open tabs.
+* `webRequest`: Monitor and manipulate web requests.
+* `cookies`: Read session cookies and impersonate you on websites.
+* `storage`: Save and access potentially sensitive data.
+---
+
+### How to Stay Safe:
+
+1. **Only install from trusted developers.**
+2. **Check permissions carefully** — don’t install if the permissions seem excessive.
+3. **Read reviews and ratings.**
+4. **Keep extensions to a minimum** — the fewer you have, the lower your risk.
+5. **Use browser security features** like extension control or sandboxing.
+6. **Regularly review installed extensions** and remove anything suspicious or unused.
+
+---
